@@ -1,0 +1,80 @@
+.logo, .search, .buttons{
+    text-align: center;
+}
+
+.logo{
+    margin-top: 50px;
+}
+
+img{
+    width: 300px;
+}
+
+input{
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 25px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 16px;
+    width: 500px;
+}
+
+.buttons{
+    margin-top: 15px;
+
+}
+
+.b1{
+
+    border: none;
+    font-size: 15px;
+    width: 150px;
+    height: 40px;
+    margin-right: 10px;
+    padding-left: 25px;
+}
+
+.b2{
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    font-size: 15px;
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.other-search{
+    text-align: right;
+    padding-top: 10px;
+}
+
+.b3{
+    margin-right: 10px;
+    border-radius: 30px;
+    height: 30px;
+    width: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    font-size: 13px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.b4{
+    border-radius: 30px;
+    height: 30px;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    font-size: 13px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+#group{
+    text-align: center;
+}
